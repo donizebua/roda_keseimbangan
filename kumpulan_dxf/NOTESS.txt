@@ -1,0 +1,7 @@
+! Asumsi akrilik yang dipakai 5mm. Jika berbeda maka desain harus diubah.
+
+1. batt_holder x 1
+2. board_holder x 2
+3. side x 2
+
+board_dummy tidak perlu dicetak karena referensi dimensi board saja.
